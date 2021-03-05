@@ -5,6 +5,7 @@ general:
     only:
       - master
       - develop
+      - feature/circleci_demo
 
 jobs:
   build:
