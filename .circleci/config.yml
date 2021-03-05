@@ -31,7 +31,7 @@ jobs:
       - run:
           command: sudo pip install poetry
       
-      - run:
+      # - run:
           # command: poetry config settings.virtualenvs.in-project true
 
       - run:
